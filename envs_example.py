@@ -1,0 +1,4 @@
+PERCHMOUNT_SYSTEM = "127.0.0.1:5001"
+MINIO = "127.0.0.1:9000"
+MINIO_ACCESS_KEY = "your-access-key"
+MINIO_SECRET_KEY = "your-secret-key"
