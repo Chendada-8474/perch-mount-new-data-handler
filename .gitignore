@@ -222,7 +222,7 @@ envs.py
 upload.sh
 tmp
 tmp_demo
-new-data
+new-data/*
 failed
 
 .DS_Store
