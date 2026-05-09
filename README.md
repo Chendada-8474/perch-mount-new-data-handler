@@ -12,3 +12,11 @@
 
 複製 `upload_example.sh` 成 `upload.sh`， 改成自己需要的參數。
 可以在你的 client 上手動執行 `upload.sh`，或者是設定一個 cronjob。
+
+Install ffmpeg on Service
+
+Ubuntu
+
+```sh
+sudo apt update && sudo apt install ffmpeg
+```
